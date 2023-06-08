@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 375px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+header div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #C6C6C6;
+}
+
+.profile-img {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+}
+
+#logo-img {
+    width: 127px;
+}
+
+.post-header {
+    display: flex;
+    margin: 10px 0;
+}
+
+.post-header div p {
+    margin: 0;
+    margin-left: 10px;
+}
+
+.post-img {
+    width: 100%;
+}
+
+.post-icons {
+    display: flex;
+    margin-top: 10px;
+}
+
+.icons {
+    width: 25px;
+    height: 25px;
+    margin-right: 5px;
+}
+
+
+
